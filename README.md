@@ -49,31 +49,6 @@ your-repo/
 | Contact | Form with name, email, subject dropdown, message textarea, and submit button |
 | Footer | Copyright info with GitHub and LinkedIn links |
 
----
-
-## How to Run
-
-No installation or setup required. This is a plain HTML file.
-
-**Steps:**
-
-1. Clone or download this repository
-   ```
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-
-2. Open the project folder
-
-3. Double-click `index.html` — it will open directly in your browser
-
-   **Or** if you have VS Code with the Live Server extension:
-   - Open the folder in VS Code
-   - Right-click `index.html`
-   - Click **"Open with Live Server"**
-
-4. The portfolio will load in your default browser with all sections visible
-
----
 
 ## HTML Concepts Used
 
@@ -122,17 +97,6 @@ Key attributes used throughout:
 
 ---
 
-## Technical Requirements Checklist
-
-- [x] `index.html` with proper HTML5 structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
-- [x] At least 3 sections: About, Skills, Contact (plus Projects as a bonus section)
-- [x] Semantic HTML tags used: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`
-- [x] Working contact form with name, email, subject, and message fields
-- [x] Profile image with descriptive `alt` text
-- [x] Internal navigation links using `href="#section-id"`
-
----
-
 ## Projects Showcased
 
 ### Brain Tumor Segmentation (3D Deep Learning)
@@ -155,15 +119,3 @@ An inventory demand forecasting system using ARIMA, SARIMA, and LSTM on the Walm
 
 ---
 
-## Additional Notes
-
-- No CSS frameworks (like Bootstrap) or JavaScript were used — this is pure HTML5 with inline `<style>`
-- The website is fully responsive for mobile screens using CSS media queries inside the `<style>` block
-- All external project links point to GitHub and open in a new tab using `target="_blank"`
-- The contact form uses only HTML5 validation (no backend processing)
-
----
-
-## License
-
-This project is submitted for academic purposes as part of the Web Development course at Amrita Vishwa Vidyapeetham.
