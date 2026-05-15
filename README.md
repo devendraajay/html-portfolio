@@ -1,4 +1,4 @@
-# Personal Portfolio Website — Week 1 Submission
+# Personal Portfolio Website 
 
 **Name:** Devendra Ajay Kumar T  
 **Student ID:** CB.SC.U4AIE23070  
